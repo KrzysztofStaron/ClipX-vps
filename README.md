@@ -1,7 +1,7 @@
 # Download any clip of any X/Twitter video completely free!
 
 ## Check it out :-
-[ClipX](https://clipx-beta.vercel.app/)
+[ClipX](https://justclipx.xyz)
 
 ## Demo Video:-
 
