@@ -208,6 +208,17 @@ export default function Home() {
               Abhinav Jha
             </Link>
           </p>
+          <p className="text-slate-200 text-xs my-1">
+            Maintained by -{" "}
+            <Link
+              href="https://x.com/PanzerBread"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-blue-400"
+            >
+              Krzysztof
+            </Link>
+          </p>
           <p className="text-slate-200 text-md">
             Follow at -{" "}
             <Link
